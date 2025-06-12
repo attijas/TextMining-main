@@ -1,0 +1,6 @@
+2GL (ang. Second-generation language - język drugiej generacji) - termin oznaczający języki z rodziny asemblera.
+Języki 2GL spełniają następujące warunki:
+
+Kod może być czytany i pisany przez programistę. Aby mógł być uruchomionym na komputerze musi być przekonwertowany na kod maszynowy specyficzny dla danej maszyny.
+Kod jest specyficzny dla danej platformy i procesora.
+Języki drugiej generacji zazwyczaj używane są w kernelach i sterownikach urządzeń, jednak nie tylko; używane są także tam, gdzie wymagane jest bardzo intensywne przetwarzanie danych, np. w grach czy programach do edycji wideo i grafiki.

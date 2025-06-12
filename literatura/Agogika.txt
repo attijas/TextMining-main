@@ -1,0 +1,124 @@
+Tempo (agogika) – jeden z elementów dzieła muzycznego, oznaczający, jak szybko utwór ma być wykonany.
+
+
+Pierwsze próby ścisłego określenia tempa podejmowano już na przełomie XV i XVI wieku. Szły one w trzech kierunkach:
+
+oznaczanie tempa za pomocą czynności wykonywanych przez człowieka lub jego organizm, jak kroczenie (H. Buchner - Fundamentbuch, ok. 1520), uderzenia motyką (Hermann Finck, Practica musica, 1556), ale w szczególności za pomocą pulsu zdrowego, wypoczętego człowieka (np. F. Gaffori, Practica Musicae, 1496; Marin Mersenne, Harmonie Universelle, 1636; Johann Joachim Quantz, Versuch einer Anweisung die Flöte traversière zu spielen, 1752 i in.).
+oznaczanie tempa za pomocą urządzeń mechanicznych, jak wahadło (np. Michael Praetorius, Syntagma Musicum, 1619); chronomètre (Étienne Loulié, Éléments ou Principes de musique mis dans un nouvel ordre, 1696); échomètre (Joseph Sauver, 1701); mètromètre (Luis-Léon Pajot, 1732), zegar z sekundnikiem i in.;
+oznaczanie czasu trwania danego utworu w minutach i sekundach, z czego wynikało tempo (Michel Richard Delalande, Georg Friedrich Händel, Johann Adolf Scheibe i in.).
+Od początku XVII w. zaczęto w zapisie nutowym podawać (początkowo sporadycznie, a wcześniej tylko wyjątkowo) szybkość wykonania utworu w postaci włoskiej nazwy tempa nad partyturą lub pięciolinią (jednak np. już w barokowej muzyce francuskiej używano określeń francuskich, zaś jednym z pierwszych kompozytorów niemieckich, określających tempo w swoim języku ojczystym, był Ludwig van Beethoven). Ta metoda definiuje tempo w sposób przybliżony, zaś w różnych szkołach i w różnych okresach historycznych określeniom tym nadawano różne znaczenie.
+Od drugiej połowy XVIII w. nazwom tempa towarzyszą często dodatkowe określenia, opisujące sposób wykonania utworu (np. adagio cantabile – powoli i śpiewnie, adagio risoluto - powoli, ale pewnie, zdecydowanie). Coraz częściej określenia te podawane są też w innych językach narodowych (angielskim, niemieckim, francuskim itp.).
+Proste i precyzyjne określenie tempa stało się możliwe od czasu wynalezienia metronomu (1816). Od tej pory oprócz określeń słownych tempo można określić w sposób bezwzględny poprzez podanie liczby uderzeń na minutę (BPM) wraz z określeniem jednostki rytmicznej, odpowiadającej uderzeniu metronomu. Domyślnie jednostką tą jest ćwierćnuta, można jednak wybrać dowolną inną jednostkę, jeśli jest ona bardziej naturalna dla danego utworu (np. ósemkę lub półnutę).
+Słowne określenia tempa podawane na początku utworów lub ich części są często używane w charakterze ich tytułów, o ile kompozytor nie nazwał dzieła w inny sposób (np. Adagio – jeden z bardziej znanych utworów przypisywany niesłusznie Tomaso Albinoniemu).
+
+
+
+
+
+Określenia tempa mogą być dodatkowo modyfikowane określeniem uzupełniającym – odnoszącym się do określenia ruchu, nastroju, czy charakteru utworu – umieszczanym, zgodnie z regułami języka włoskiego, przed lub po nazwie tempa:
+
+ad libitum – według upodobania, swobodnie
+agitato – burzliwie, gwałtownie,
+alla – tak jak (np. alla marcia – tak jak w marszu lub alla turca – tak jak w muzyce tureckiej),
+appassionato – namiętnie, z pasją,
+appena – prawie, w ogóle, prawie nic,
+assai – dość,
+calando – zanikając,
+cantabile – śpiewająco, śpiewnie,
+con – z (con fuoco – z ogniem),
+deciso – zdecydowanie, stanowczo,
+dolce – słodko,
+dolcissimo – bardzo słodko,
+energico – energicznie,
+eroico – heroicznie,
+furioso – dosł. w furii
+in modo – w stylu (in modo di marcia funebre – w stylu marsza żałobnego),
+lacrimoso – smutno, żałobnie,
+lamentoso – dosł. lamentując,
+leggiero – lekko,
+maestoso – majestatycznie, poważnie
+malinconico – melancholijnie,
+marcato – zaznaczając, akcentując
+marciale – marszowo, w tempie marsza,
+meno – mniej (np. meno vivo – nie tak prędko),
+misterioso – tajemniczo,
+moderato – umiarkowanie
+molto – bardzo,
+non molto – nie bardzo (np. allegro non molto – nie bardzo ruchliwie),
+non tanto – nie zanadto,
+non troppo – nie zanadto (np. allegro ma non troppo – ruchliwie, ale nie zanadto),
+patetico – patetycznie, emocjonalnie,
+più – więcej, bardziej (np. più adagio – bardziej, więcej niż adagio),
+quasi – jakby,
+rigoroso – ściśle, dokładnie,
+saltando – skocznie i lekko,
+scherzando – zabawnie,
+sempre – zawsze, stale,
+tranquillamente – spokojnie,
+trionfante  – triumfalnie,
+vigoroso – silnie, śmiało,
+zeloso – żarliwie, szczerze.
+
+
+
+Chwilowe zmiany tempa podaje się pod pięciolinią na początku odcinka tekstu muzycznego, którego one dotyczą. Używa się określeń:
+
+accelerando – przyspieszyć,
+allargando – rozwlec,
+animato – ożywić,
+doppio movimento – dwa razy szybciej,
+doppio più lento – dwa razy wolniej,
+meno mosso – mniej ruchliwie,
+morendo – zamierając,
+pesante – ciężko,
+piú mosso – bardziej ruchliwie,
+poco a poco – coraz bardziej (np. poco a poco ritardando – coraz bardziej zwalniając),
+poco un poco – trochę (np. poco un poco animato trochę ożywiając),
+rallentando (rall.) – stopniowo zwolnić,
+ritardando (rit.) – spowolnić,
+ritenuto (również rit.) – zwolnienie,
+stringendo – pędzić, coraz gwałtowniej,
+sostenuto – przedłużyć,
+subito – nagle
+Powrót do poprzedniego tempa zaznacza się określeniem: a tempo, tempo I lub tempo primo (tempo I).
+
+
+Używane są również terminy w językach narodowych. Poniżej znajdują się tłumaczenia określeń tempa z wybranych języków.
+
+
+Wielu kompozytorów używało francuskich określeń temp, m.in.: François Couperin, Jean-Philippe Rameau, Claude Debussy, Olivier Messiaen, Maurice Ravel czy Aleksandr Skriabin. Erik Satie używał stworzonych przez siebie francuskich określeń tempa:
+
+Grave – wolno, ciężko,
+Lent – wolno,
+Modéré – średnio (moderato),
+Moins – mniej,
+Rapide – szybko,
+Très – bardzo,
+Vif – żywo,
+Vite – szybko.
+
+
+Określeń niemieckich używali np. Ludwig van Beethoven i Gustav Mahler.
+
+Langsam – wolno,
+Lebhaft – żywo,
+Mäßig – średnio (moderato),
+Rasch – szybko,
+Schnell – szybko, szybciej,
+Bewegt – ruchliwie.
+
+
+Angielskie określenia stosowali między innymi Benjamin Britten i Percy Grainger.
+
+fast – szybko,
+medium – średnio,
+brisk – żywo,
+slowly – powoli,
+vigorously – żywo (vivo),
+mysterious – tajemniczo (misterioso).
+
+
+rubato
+
+
+

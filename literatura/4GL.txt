@@ -1,0 +1,60 @@
+4GL (4th generation language – język czwartej generacji) – dowolny język programowania, pozwalający przy użyciu krótkich instrukcji stworzyć program, którego napisanie w językach niższej (np. trzeciej, 3GL) generacji wymaga użycia setek lub tysięcy razy większej liczby wierszy kodu źródłowego. 4GL często dopuszcza pisanie fragmentów kodu w kilku językach 3GL jednocześnie.
+Podstawowym wyróżnikiem języka 4GL jest jego specjalizacja, tworząca z języka efektywne narzędzie w ramach ściśle określonego obszaru zastosowań. Termin „4GL” został użyty po raz pierwszy w publikacji Jamesa Martina w publikacji „Applications Development Without Programmers” w roku 1982.
+
+
+Języki zapytań do baz danych
+FOCUS
+PL/SQL
+NATURAL
+OpenEdge ABL
+SQL
+QBE
+Generatory raportów / stron
+BuildProfessional
+GEMBase
+IDL-PV/WAVE
+LINC
+Metafont
+NATURAL
+Oracle Reports
+PostScript
+RPG-II
+S
+GAUSS
+Mathematica
+Przetwarzanie danych, analiza i raportowanie
+Clarion
+Ab Initio
+ABAP
+Aubit-4GL
+DASL
+FOCUS
+GraphTalk
+Informix-4GL
+NATURAL
+Nomad
+R
+Ramis
+SAS
+Synon
+CorVision
+Języki strumienia danych
+APE
+AVS
+Iris Explorer
+Generatory ekranów
+Oracle Forms
+Unify Accell
+Tworzenie GUI
+4th Dimension
+Delphi
+eDeveloper
+MATLAB’s GUIDE
+Revolution
+Visual Basic (edycja formatek)
+Windows Forms (część .NET)
+OpenROAD
+
+
+język programowania
+3GL

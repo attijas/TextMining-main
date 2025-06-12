@@ -1,0 +1,80 @@
+Autobus – pojazd samochodowy przeznaczony do przewozu większej liczby pasażerów.
+Według ustawy – Prawo o ruchu drogowym pojazd ten przystosowany jest do przewozu więcej niż 9 osób (w tym kierowcy). Według definicji Europejskiej Komisji Gospodarczej, Eurostatu i Międzynarodowego Forum Transportu jest to pasażerski mechaniczny pojazd drogowy przeznaczony do przewozu więcej niż 24 osób (wliczając kierowcę) i posiadający zarówno miejsca siedzące, jak i stojące.
+Autobus może mieć jeden lub dwa pokłady (autobus piętrowy), bądź składać się z dwóch lub więcej członów połączonych przegubem (autobus przegubowy), może ciągnąć przyczepę osobową lub bagażową.
+
+
+
+Poprzednikami autobusów w drogowym transporcie pasażerskim były dyliżanse i omnibusy ciągnięte przez konie. W niektórych krajach (Wielka Brytania i Francja) już w XIX wieku rozpowszechniły się także omnibusy o napędzie parowym, jednak konieczność wożenia dużych masowo i objętościowo zapasów wody oraz paliwa nie sprzyjały rozwojowi konstrukcji tych pojazdów. W Anglii w 1865 rozwój parowych omnibusów zablokowała tzw. ustawa o czerwonej fladze (Red Flag Act), praktycznie zakazująca ich używania.
+Wynalezienie silnika spalinowego pod koniec XIX wieku umożliwiło powstanie omnibusów spalinowych – czyli autobusów (auto – sam, bus – końcówka łacińskiego przypadku ze słowa omnibus = dla wszystkich, dosłownie – wszystkim). Pierwsze konstrukcje (pierwotna nazwa Automobil-Omnibus, następnie Auto-Omnibus) powstały w firmie Benz na początku jej istnienia i w 1895 roku podjęły komunikację w Niemczech. Pierwsze autobusy powstawały przez zabudowę kabiny pasażerskiej na podwoziu samochodu ciężarowego i były napędzane silnikami o zapłonie iskrowym. Trzecia – po fabrykach Daimlera i Benza – niemiecka fabryka pojazdów silnikowych Stoewer w Szczecinie była pierwszą fabryką autobusów sensu stricto. Produkcję rozpoczęto tam w latach 1899–1900. Wykonywano wtedy m.in. podwozia na eksport, karosowane w miejscu dostarczenia.
+Od okresu międzywojennego coraz szerzej stosowano silniki o zapłonie samoczynnym (Diesel). Już w latach 20. XX wieku budowano autobusy z jedną kabiną pasażerską (pierwsze konstrukcje miały osobne stanowisko kierowcy). Powstanie nadwozi samonośnych w latach 20. XX w. w trolejbusach, a 30. – w samochodach dostawczych umożliwiło ich zastosowanie w autobusach, co uczyniła firma Chausson w 1942 r. Autobusy te po wojnie jeździły m.in. w Warszawie.
+Potrzeba zwiększenia zdolności przewozowej przyczyniła się do budowy pierwszych konstrukcji wieloosiowych (w tym przegubowych) i piętrowych, a także stosowania przyczep autobusowych. Od lat 50. XX wieku, ze względu na intensywną politykę budowy darmowych dróg przez państwa rozwinięte, autobusy zastępowały często koleje lokalne.
+W tym czasie autobusy zaczęły wyróżniać się konstrukcyjnie od budowy innych pojazdów drogowych, tj. w miejsce klasycznego układu napędowego (silnik umieszczony z przodu, napędzane koła tylne) zaczęto stosować coraz częściej silnik umieszczony z tyłu lub pod podłogą. Stosowano jednak wspólne kadłuby dla wersji lokalnych i miejskich oraz dalekobieżnych i turystycznych. Typowym przykładem takiego rozwiązania jest seria autobusów Ikarus 200. W autobusach stosowanych w ruchu lokalnym upowszechniły się drzwi automatycznie otwierane przez kierowcę. Ze względów bezpieczeństwa, stopniowo zaniechano również stosowania przyczep na rzecz autobusów przegubowych.
+Problemem było tu obniżenie podłogi w związku z występowaniem ciągniętej przyczepy (stosowano m.in. silnik podpodłogowy – dotychczas w Ikarusie). Przełomem było zastosowanie przez firmę Mercedes-Benz urządzenia przeciw wężykowaniu, co umożliwiło umieszczenie silnika z tyłu – w przyczepie i niskiej podłogi. Człon tylny pcha człon przedni.
+W konstrukcji autobusów turystycznych, w odróżnieniu od dalekobieżnych autobusów komunikacji publicznej, powszechnie stosowano duże, panoramiczne okna i przeszklone dachy. W autobusach dalekobieżnych oraz turystycznych (zwanych autokarami) zaczęto stosować toalety o zamkniętym obiegu i klimatyzację, co zbliżyło komfort podróżowania nimi do jazdy pociągiem. Autokary wyposażane są ponadto powszechnie w instalację nagłaśniającą, barek, możliwość projekcji filmów.
+W latach 60. XX w. powstały konstrukcje polepszające widoczność w autobusach miejskich – świetliki w dachu, a następnie jego podniesienie w celu powiększenia okien (Chausson). Po 1970 w konstrukcji autobusów miejskich zarysowała się tendencja do obniżania podłogi, aby ułatwić wsiadanie osobom o ograniczonej zdolności poruszania się i przyspieszyć wymianę podróżnych na przystankach. Rozwiązania te znane były wcześniej w tramwajach.
+W nadwoziach autobusowych montowane są również trolejbusy (Chausson-Vetra, Solaris Trollino, Jelcz 120MT, Mercedes-Benz O405N). Przez wiele lat były one przeważnie osobnymi konstrukcjami.
+Od początku lat 90. XX wieku, ze względu na dużą rolę silników spalinowych w zanieczyszczeniu środowiska, stosuje się coraz bardziej rygorystyczne normy emisji spalin, a przedsiębiorstwa transportowe coraz częściej kupują autobusy napędzane mniej szkodliwym gazem ziemnym (CNG, ostatnio również biogazem i LNG). W rozwiniętych krajach Europy zachodniej coraz wyraźniejszy jest również trend powrotu w obszarach silnie zurbanizowanych do bardziej ekologicznych tramwajów. Wprowadza się również autobusy o napędzie hybrydowym. 
+Po 2000 roku autobusy w pełni niskopodłogowe z silnikiem w zabudowie wieżowej w tylnym narożniku nadwozia stały się standardem w segmencie miejskim.
+W krajach Ameryki Południowej od dawna stosowane są autobusy o długości przekraczającej 18 metrów. Mogą one mieć dwa przeguby i długość blisko 25 metrów. Ta tendencja pojawia się również w niektórych aglomeracjach w krajach europejskich, na liniach o dużym obciążeniu. Powstały m.in. takie autobusy jak Mercedes-Benz CapaCity czy MAN Lion’s City GXL. Dodatkową zaletą jest zmniejszenie zapotrzebowania na kierowców, wadą trudności w manewrowaniu w ciasnych centrach miast. Alternatywą dla zwiększenia liczby pasażerów w stosunku do kierowców, stały się autobusy piętrowe, szczególnie popularne w Wielkiej Brytanii oraz części krajów azjatyckich. Są one łatwiejsze w manewrowaniu niż autobusy przegubowe oraz zapewniają wyjątkowo ergonomiczne ustawienie na górnej części pokładu. Często znajdują również zastosowanie w liniach turystycznych.
+
+
+Nowością drugiej dekady XXI wieku jest tworzenie hybryd – autobusów elektrycznych, korzystających głównie z akumulatorów (w przeciwieństwie do klasycznych trolejbusów), ale będących w stanie doładować prąd w trakcie jazdy. Bardzo nowoczesnym rozwiązaniem jest wykorzystanie w tym celu nie trakcji elektrycznej napowietrznej czy metalowej szyny, ale technologii SMFIR (z ang. Shaped Magnetic Field in Resonance), po przejechaniu nad obszarem zasięgu pola, uzupełniana jest energia, bez kontaktu stykowego. Tego rodzaju pojazdy wykorzystywane są np. w miejscowości Gumi. Jest to realizacja proponowanych futurystycznych wizji z XX wieku, np. w popkulturze gra Wipeout.
+W Singapurze testowane są w normalnym ruchu ulicznym, w pełni autonomiczne autobusy, gdzie pasażer dokonuje wyboru przystanku, a autobus dzięki LIDARowi oraz komputerom wybiera trasę i omija przeszkody podczas jazdy. Celem jest rozwiązanie problemu tzw. „ostatniej mili”. Podobne rozwiązania w Europie testowane są także m.in. w Berlinie i Paryżu.
+
+
+
+W Polsce pierwsze autobusy budowano w okresie międzywojennym w zakładach Ursus. Były to niewielkie pojazdy na podwoziu lekkiej ciężarówki, nienadające się do obsługi większych miejscowości. Ze względu na ograniczenia importowe, powstające wówczas firmy autobusowe zmuszone były sprowadzać z krajów zachodnich duże podwozia autobusowe (np. Leyland) i budować karoserie we własnym zakresie (powszechnie stosowano wówczas karoserie drewniane z blaszanym poszyciem).
+Po 1945 na potrzeby produkcji autobusów władze postanowiły rozwinąć dwa duże zakłady w Jelczu i Sanoku. W Jelczu budowano autobusy miejskie i pojazdy na licencji zagranicznej (czechosłowacka Škoda 706, później francuski Berliet, opracowano także hybrydę francuskiego nadwozia z węgierskim podwoziem Ikarusa 260). Sanocka wytwórnia wyspecjalizowała się w midibusach (kolejne wersje autobusów San, później bardzo udany Autosan H9), przeznaczonych na trasy dalekobieżne.
+Największą polską marką autobusów jest Solaris Bus & Coach, fabryka produkująca nowoczesne autobusy podmiejskie, miejskie i turystyczne, powstała na bazie istniejącej wcześniej montowni firmy Neoplan.
+W Polsce swoją działalność także prowadzi firma MAN Bus Sp. z o.o. – spółka należąca do koncernu MAN, specjalizująca się w produkcji autobusów miejskich. Posiada dwa zakłady produkcyjne: finalny w Sadach w gminie Tarnowo Podgórne koło Poznania, oraz zakład produkujący szkielety stalowe autobusów, podwozia autobusowe i podzespoły do nich w Starachowicach.
+W 2016 na targach motoryzacyjnych w Hanowerze został zaprezentowany polski miejski autobus z napędem wodorowym, wyposażony w ogniwa paliwowe, o zasięgu między tankowaniami 400 km – Ursus City Smile Fuel Cell Electric Bus
+
+
+
+
+
+autobusy komunikacji publicznej:
+lokalne
+podmiejskie
+miejskie
+tradycyjne (miejskie na olej napędowy i nowoczesne na gaz ziemny – CNG lub LNG, hybrydowe oraz całkowicie elektryczne zasilane z akumulatorów)
+trolejbusy (zasilany prądem)
+duobusy (nowoczesne, zasilane dwoma źródłami energii: silnikiem elektrycznym pobierającym energię z sieci trakcyjnej i silnikiem spalinowym)
+dalekobieżne
+turystyczne (autokar)
+szkolne
+autobusy lotniskowe (o ograniczonej liczbie miejsc siedzących i powiększonej liczbie i szerokości drzwi)
+specjalne (np. policyjne, dla Służby Więziennej, Straży Granicznej, strażackie, medyczne itp.)
+
+
+Podział pojemnościowo-wielkościowy autobusów miejskich wygląda następująco:
+
+mikrobus (autobus w nadwoziu samochodu dostawczego) – większe mikrobusy nazywane są busami,
+klasa mini, tzw. minibus (mały autobus, o długości od 6 do 8 metrów, lub pojemności od 30 do 45 osób), potocznie nazywany busem, np. Autosan Solina,
+klasa midi, tzw. midibus (średniej wielkości autobus, o długości od 9 do 10,5 metra, lub pojemności od 65 do 75 osób), np. Solaris Urbino 9,
+klasa maxi (duży autobus, o długości od 11 do 13 metrów, lub pojemności około 100 osób), np. Jelcz M125M,
+klasa mega (autobus wieloosiowy, o długości od 15 do 24 metrów, lub pojemności około 140 osób) – np. MAN NG xx2.
+
+
+klasyczny
+przegubowy zwany również członowym – większość autobusów klasy mega
+piętrowy
+
+
+niskopodłogowy (wejście bez stopni, podłoga na spodzie nadwozia, do 35 cm nad poziomem jezdni)
+średniopodłogowy (jeden stopień wejściowy, podłoga na poziomie ok. 36 – 75 cm nad poziomem jezdni)
+wysokopodłogowy (dwa lub więcej stopni wejściowych, podłoga na poziomie od 76 cm wzwyż nad poziomem jezdni)
+wysokopokładowy (podłoga na poziomie ponad 100 cm nad poziomem jezdni, osobny dolny pokład przeznaczony na luki bagażowe, konstrukcja typowa dla autobusów dalekobieżnych i turystycznych)
+niskowejściowy (częściowo niskopodłogowy – najczęściej w przedniej części, a w tylnej wysokopodłogowy)
+
+
+
+
+
+
+
+
+12 metrowy autobus autonomiczny zabierający na pokład 80 pasażerów był testowany w 2019, w Singapurze. Jest to wspólny projekt Volvo i Nanyang Technological University z Singapuru.
+
+
+

@@ -1,0 +1,210 @@
+Amplituda – wspólna nazwa kilku blisko powiązanych pojęć matematycznych, stosowanych głównie w fizyce, naukach technicznych i naukach o Ziemi. We wszystkich tych przypadkach amplituda to pewna liczba rzeczywista charakteryzująca pewną funkcję rzeczywistą, na przykład:
+
+funkcję okresową opisującą drgania;
+ciąg wyników pomiarów.
+
+
+
+W formalnym opisie drgań amplituda jest liczbą nieujemną określająca wielkość przebiegu funkcji okresowej. Jednostka amplitudy zależy od rodzaju ruchu drgającego:
+
+dla drgań mechanicznych jednostką może być metr, jednostka gęstości lub ciśnienia, np. dla fali podłużnej;
+dla fali elektromagnetycznej tą jednostką jest V/m.
+
+
+W drganiach harmonicznych – np. przebiegach sinusoidalnych – amplituda 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  
+ jest maksymalną wartością tego przebiegu:
+
+  
+    
+      
+        y
+        =
+        A
+        sin
+        ⁡
+        (
+        ω
+        t
+        +
+        φ
+        )
+        
+        
+
+        
+      
+    
+    {\displaystyle y=A\sin(\omega t+\varphi )\quad {}}
+  
+
+Amplituda może być przykładowo największym wychyleniem z położenia równowagi w ruchu drgającym i w ruchu falowym.
+
+
+Dla innych funkcji okresowych amplituda to połowa różnicy między maksimum a minimum. Przykładowo dla funkcji ze składową stałą, amplituda dotyczy tylko części sinusoidalnej:
+
+  
+    
+      
+        y
+        =
+        A
+        sin
+        ⁡
+        (
+        ω
+        t
+        +
+        φ
+        )
+        +
+        B
+        
+        
+
+        
+      
+    
+    {\displaystyle y=A\sin(\omega t+\varphi )+B\quad {}}
+  
+
+Amplitudą w tym przypadku nie jest 
+  
+    
+      
+        A
+        +
+        B
+        ,
+      
+    
+    {\displaystyle A+B,}
+  
+ a tylko wartość 
+  
+    
+      
+        A
+        .
+      
+    
+    {\displaystyle A.}
+  
+
+
+W tym wypadku pojęcie amplitudy stosuje się do opisu zjawisk, które nie mają ściśle okresowego charakteru. Amplituda jest wówczas różnicą między maksymalnymi i minimalnymi wartościami liczb charakteryzujących przebieg jakiegoś parametru pogody w odniesieniu do badanego okresu (doby, miesiąca, roku itd.). Pojęcie to odnosi się również do wahań wartości średnich w badanym okresie. Parametrami, których zmienność charakteryzują amplitudy dobowe, miesięczne, roczne są m.in.: temperatura, ciśnienie, wilgotność, nasłonecznienie, ilość opadów itd.
+
+
+Pojęcie amplitudy bywa mylnie określane jako różnica pomiędzy maksymalną a minimalną wartością przebiegu (czyli według tej definicji wynosiłaby 
+  
+    
+      
+        2
+        A
+      
+    
+    {\displaystyle 2A}
+  
+ – jest to amplituda szczytowo-siodłowa).
+Nieprawdziwe jest również definiowanie amplitudy jako wartości średniej z modułów maksymalnej i minimalnej wartości przebiegu (czyli 
+  
+    
+      
+        
+          
+            
+              
+                
+                  |
+                
+                
+                  y
+                  
+                    m
+                    a
+                    x
+                  
+                
+                
+                  |
+                
+                +
+                
+                  |
+                
+                
+                  y
+                  
+                    m
+                    i
+                    n
+                  
+                
+                
+                  |
+                
+              
+              2
+            
+          
+        
+      
+    
+    {\displaystyle {\tfrac {|y_{max}|+|y_{min}|}{2}}}
+  
+); taka definicja jest słuszna jedynie dla przebiegów symetrycznych np. sinusoidalnego z równania (1), gdyż wówczas 
+  
+    
+      
+        
+          |
+        
+        
+          y
+          
+            m
+            a
+            x
+          
+        
+        
+          |
+        
+        =
+        
+          |
+        
+        
+          y
+          
+            m
+            i
+            n
+          
+        
+        
+          |
+        
+        .
+      
+    
+    {\displaystyle |y_{max}|=|y_{min}|.}
+  
+
+
+
+funkcje amplitudy
+parametry sygnału okresowego
+roczna amplituda temperatury powietrza
+
+
+
+
+Eric W.E.W. Weisstein Eric W.E.W., Amplitude, [w:] MathWorld, Wolfram Research  (ang.). [dostęp 2025-04-10].

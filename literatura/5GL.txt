@@ -1,0 +1,29 @@
+5GL (5th-generation programming language - język piątej generacji) – skrócona wersja języka czwartej generacji.
+Termin został po raz pierwszy użyty w 1982 przez Jamesa Martina w książce Applications Development Without Programmers
+
+
+Podczas gdy języki programowania czwartej generacji są zaprojektowane do tworzenia konkretnych programów, języki piątej generacji są zaprojektowane tak, aby komputer rozwiązywał dany problem bez udziału programisty. W ten sposób użytkownik musi martwić się tylko o to, jakie problemy należy rozwiązać i jakie warunki należy spełnić, bez martwienia się o to, jak zaimplementować procedurę lub algorytm do ich rozwiązania. Języki piątej generacji są wykorzystywane głównie w badaniach nad sztuczną inteligencją. OPS5 i Mercury są przykładami języków piątej generacji, podobnie jak ICAD, który został zbudowany w oparciu o Lisp. KL-ONE jest przykładem pokrewnego pomysłu, języka ramowego.
+W latach 80. języki piątej generacji były uważane za drogę przyszłości, a niektórzy przewidywali, że zastąpią one programowanie proceduralne programowaniem opartym na ograniczeniach dla wszystkich zadań, które można ująć w ramy jako serię ograniczeń logicznych.
+
+
+
+
+Adelia Studio
+Clipper
+CA-Telon
+DataFlex
+FOCUS
+FoxPro
+LabVIEW
+LINC
+Omnis Studio SDK
+Panther
+PowerBuilder
+DEC RALLY
+SheerPower4GL (wyłącznie Microsoft Windows)
+SQLWindows
+Uniface
+Visual DataFlex (wyłącznie Microsoft Windows)
+WinDev
+XBase++
+

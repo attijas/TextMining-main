@@ -1,0 +1,9 @@
+3GL (ang. Third-generation language - język trzeciej generacji) – dowolny język programowania zaprojektowany, by być łatwiejszym do zrozumienia przez użytkownika, między innymi dzięki nazwaniu zmiennych. Przykładowa instrukcja programu może wyglądać następująco:
+
+let c = c + 2 * d
+gdzie 'let' oznacza 'niech' (instrukcje języka pochodzą najczęściej z angielskiego). Słowo kluczowe 'let' często jest pomijane w źródle kodu (zależy od języka programowania), lecz pozostaje w domyśle.
+Przykłady języków programowania trzeciej generacji: C++, Pascal, Java oraz Clipper.
+
+
+2GL
+4GL

@@ -1,0 +1,48 @@
+Architektura informacji (AI) – sztuka oraz nauka organizowania i etykietowania stron internetowych, intranetowych, społeczeństw sieciowych i oprogramowania (środowisk informacyjnych) w celu wspierania użyteczności informacji. Architektura informacji jest nową meta-dyscypliną związaną z tworzeniem i przechowywaniem informacji w postaci cyfrowej w celu ułatwienia użytkownikowi dostępu do niej, a następnie jej wykorzystania. Osoba tworząca strukturę informacji w sposób umożliwiający użytkownikom jak najłatwiejsze dotarcie do poszukiwanej treści to architekt informacji.
+
+
+Połączenie sposobu organizacji informacji, nadawania nazw rozpoznawczych (etykietowania elementów informacyjnych) i schematów przeszukiwania w systemie informacyjnym.
+Strukturalne projektowanie przestrzeni informacyjnej, służące ułatwieniu kompletowania informacji i udostępnianiu jej użytkownikom.
+Sztuka oraz nauka nadawania struktur i klasyfikowania serwisów (stron) internetowych i intranetowych, mające na celu ułatwienie ludziom znajdowanie informacji i ich wykorzystanie.
+Nowa dyscyplina poznawcza i praktyczna zajmująca się dostarczaniem zasad projektowania i tworzenia konstrukcji w krajobrazie wirtualnym.
+Terminów architektura informacji (AI) oraz architekt informacji użył po raz pierwszy w 1976 roku Richard Saul Wurman. Architekturą informacji początkowo określano praktyczne umiejętności związane z tworzeniem komunikatów informacyjnych, jednak w wyniku rozwoju hipertekstowej usługi World Wide Web, metody przez nią stosowane zaadaptowano do budowy serwisów w Internecie.
+
+
+Zgodnie z definicją zawartą w książce Petera Morville’a i Lou Rosenfelda, architektura informacji składa się z następujących systemów:
+
+organizacji – sposób grupowania treści według schematów i struktur informacyjnych
+nazewnictwa (etykietowania) – system oznaczeń ustala nazwy dla wydzielonych grup treści,
+nawigacji – nawigacja jest systemem pomagającym poruszać się po serwisie i przeglądania jego zawartości,
+wyszukiwania – pozwala na formułowanie zapytań, które porównywane są z dokumentami relewantnymi we wszystkich zbiorach informacji.
+
+
+Organizowanie elementów zawartości odbywa się według schematów i struktur. Schemat grupuje treść w jednym widoku (podstronie), a struktura porządkuje schematy (wszystkie podstrony w obrębie witryny). Wyjątkiem jest nawigacja witryny, organizowana według schematów i struktur. Schemat nawigacji to ustalenie nazw i logiki łączy kierujących do innych miejsc w środowisku informacyjnym. Struktura nawigacji określa, które strony znajdują się pod danym łączem w witrynie.
+
+
+Schemat organizacyjny to logika grupowania elementów zawartości na podstawie wspólnych cech tych elementów. Porządkowanie informacji może odbywać się według dokładnych i niejednoznacznych kryteriów. Dokładnymi schematami jest grupowanie informacji według porządków alfabetycznego, chronologicznego (i achronologicznego) oraz geograficznego. Umożliwiają dotarcie do informacji według jednoznacznych właściwości elementu.
+Rezultat porządkowania informacji według niejednoznacznych schematów zależy od subiektywnych założeń projektanta. Według założeń projektowania zorientowanego na użytkownika projektant powinien niejednoznaczne schematy poddać testom z użytkownikami. Typowymi schematami o niejednoznacznym wymiarze są:
+
+tematyczne schematy organizacji – grupowanie elementów zawartości według tematów jest funkcjonalne, ale też zagrożone niezrozumieniem intencji projektanta przez użytkownika,
+schematy zadaniowe – elementy zawartości zgrupowane są według podobieństw funkcjonalności,
+schematy bazujące na odbiorcach – grupowanie odbywa się poprzez podział treści na zawartość skierowaną do różnych grup odbiorców,
+schematy bazujące na metaforach – schemat czerpiący organizację ze znanych elementów świata zewnętrznego (nie wirtualnego).
+
+
+Struktura informacyjna, w przeciwieństwie do schematu organizacyjnego, nadaje elementom zawartości lub ich grupom miejsce w środowisku informacyjnym. Zależy od niej sposób poruszania się użytkownika po środowisku informacyjnym. Najważniejsze typy struktur to:
+
+struktura odgórna – elementy zawartości lub grupy elementów zawartości zorganizowane są w zhierarchizowane i nazwane kategorie (np. nawigacja sklepu internetowego)
+struktura bazodanowa – dotarcie do elementów odbywa się z pomocą wyszukiwarki,
+hiperłącza – nieliniowa i elastyczna struktura informacji przyjmująca kształt zależny od kontekstu,
+tagi – struktura nadawana jest poprzez kategoryzowanie elementów zawartości według tagów, najczęściej nadawanych przez samych użytkowników.
+
+
+Zagadnienie obejmuje wiele obszarów życia, najbardziej widoczne jest w takich obszarach, jak informatyka (serwisy WWW, intranety, aplikacje) i bibliotekoznawstwo. Architekturę Informacji zwykło się łączyć z szerszym zagadnieniem użyteczności i projektowaniem zorientowanym na użytkownika (user-centered design).
+
+
+Studia z tej dziedziny prowadzą już między innymi amerykańskie instytuty bibliotekoznawstwa i informacji naukowej na Uniwersytecie w Indianie i Uniwersytecie w Pittsburgu. W Polsce studia z Architektury Informacji prowadzone są na Uniwersytecie Pedagogicznym w Krakowie w Instytucie Nauk o Informacji, Uniwersytecie Mikołaja Kopernika w Toruniu w Instytucie Informacji Naukowej i Bibliologii, Uniwersytecie Marii Curie-Skłodowskiej w Lublinie w Instytucie Informacji Naukowej i Bibliotekoznawstwa, na Wydziale Dziennikarstwa, Informacji i Bibliologii Uniwersytetu Warszawskiego oraz na Wydziale Humanistycznym Uniwersytetu Śląskiego w Katowicach.
+
+
+Interakcja człowiek–komputer
+
+
+

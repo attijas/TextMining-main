@@ -1,0 +1,48 @@
+Benzyna (od łac. benzoe → nazwa żywicy jednego z drzew egzotycznych) – mieszanina ciekłych węglowodorów, jeden z głównych rodzajów paliwa stosowanego do napędu samochodów, samolotów i niektórych innych urządzeń posiadających silnik spalinowy. Stosowana także jako rozpuszczalnik.
+
+
+To paliwo ciekłe produkuje się m.in. poprzez rektyfikację ropy naftowej. Składa się głównie z węglowodorów o liczbie atomów węgla od 5 do 12, a łączna liczba związków chemicznych w niej zawartych przekracza 150. Składy benzyn mogą różnić się znacząco, w zależności od pochodzenia wyjściowej ropy naftowej, procesu rektyfikacji i wymaganych właściwości produktu. 
+Typowy skład benzyny silnikowej (w % objętościowych): 
+
+węglowodory nasycone:
+alkany rozgałęzione (izoalkany): 25–40%
+alkany proste (n-alkany): 4–8%
+cykloalkany: 3–7%
+węglowodory nienasycone:
+alkeny: 2–5%
+cykloalkeny: 1–4%
+węglowodory aromatyczne: 20–50% (w tym 0,5–2,5% benzenu)
+
+
+
+
+Benzyna dostarcza energii silnikowi poprzez spalanie się, czyli reakcję chemiczną z tlenem pochodzącym z atmosfery. Ze względu na to, że benzyna jest w silnikach spalana w bardzo krótkich cyklach, proces ten musi przebiegać maksymalnie szybko i równomiernie w całej objętości cylindrów silnika. Osiąga się to poprzez mieszanie benzyny z powietrzem, tworząc tzw. mieszaninę paliwowo-powietrzną, czyli zawiesinę (mgłę) bardzo drobnych kropelek benzyny w powietrzu. Bardzo istotny wpływ na przebieg tego spalania ma też skład chemiczny benzyny. Głównymi parametrami określającymi właściwości benzyny jako paliwa jest liczba oktanowa oraz wartość opałowa.
+W celu poprawy właściwości benzyny jako paliwa, do silników dodaje się niewielkie ilości (poniżej 1%) wybranych związków chemicznych, nazywanych środkami przeciwstukowymi. Od lat 30 XX w. najczęściej dodawanym w tym celu związkiem był tetraetyloołów, a utworzone w ten sposób paliwo to etylina. Jej spalanie powoduje emisję do środowiska trującego, bardzo drobnego pyłu ołowiu. W związku z tym, w połowie lat 80 XX w. opracowano nowe rodzaje benzyn – benzyny bezołowiowe. Dodaje się do nich węglowodory aromatyczne, etery z grupami aromatycznymi oraz MMT. Dodatki podwyższają liczbę oktanową, ale takie paliwo nie spala się całkowicie (powstają obok dwutlenku węgla, niedopalone sadza i tlenek węgla) w komorze silnika spalinowego i dlatego muszą być dopalane na platynowych reaktorach katalitycznych (zwanych popularnie katalizatorami) umieszczanych w układzie wydechowym samochodów.
+W 2021 r. Algieria, jako ostatnie państwo na świecie, zakończyła sprzedaż benzyny z dodatkiem tetraetyloołowiu.
+
+
+Benzynę stosuje się jako rozpuszczalnik, występuje handlowo w dwóch rodzajach:
+
+benzyna ekstrakcyjna – benzyna lekka (zawierająca węglowodory o liczbie atomów węgla od 5 do 7), którą odrzuca się w procesie otrzymywania benzyny paliwowej, ze względu na zbyt niską temperaturę wrzenia. Oczyszcza się ją przez płukanie (ekstrakcję) z wodą i stąd pochodzi jej nazwa.
+benzyna lakowa – benzyna ciężka (zawierająca węglowodory o liczbie atomów węgla od 10 do 15–16), którą odrzuca się w procesie otrzymywania benzyny paliwowej ze względu na zbyt wysoką temperaturę wrzenia. Nazwa ta pochodzi od tego, że jest stosowana jako rozcieńczalnik do lakierów (także farb i innych wyrobów ftalowych i olejnych, bitumicznych oraz pokostów); nazwa niezwiązana z produkcją laku do pieczęci.
+
+
+Właściwości fizyczne benzyny różnią się w zależności od składu i zawierają się w przedziałach:
+
+temperatura wrzenia: 35–230 °C
+ciepło parowania: 315–350 kJ/kg
+ciepło spalania: ok. 42 MJ/kg (10 kcal/g)
+gęstość: 0,67–0,8 g/cm³ (ok. 0,67 g/cm³ – benzyna lekka, ok. 0,78 g/cm³ – benzyna ciężka)
+wartość opałowa: 42,6-44 MJ/kg w stanie ciekłym, 3,70 MJ/m³ w przypadku mieszanki stechiometrycznej
+stała stechiometryczna paliwa: 14,9 kgpowietrza/kgpaliwa
+zawartość ołowiu: maksymalnie 5 mg/l
+zawartość siarki: maksymalnie 50 mg/kg
+indeks lotności (VLI): maksymalnie 1150
+
+
+
+benzyna syntetyczna
+LPG
+
+
+

@@ -1,0 +1,48 @@
+Architektura komputera oznacza w informatyce technicznej zbiór zasad i metod opisujących funkcjonalność, organizację i implementację komputerów. Niektóre definicje architektury komputerów definiują ją jako opis możliwości i model programowy komputera, ale nie konkretną implementację. W innych definicjach architektura komputera obejmuje projekt architektury zestawu instrukcji, projekt mikroarchitektury, syntezę logiczną i implementację.
+
+
+Komputer jest systemem złożonym o strukturze hierarchicznej - układem wzajemnie powiązanych podsystemów, z których każdy również ma strukturę hierarchiczną, aż do osiągnięcia najniższego poziomu - podsystemu elementarnego. Na każdym poziomie projektant zajmuje się strukturą (sposobem wzajemnego powiązania) i funkcjami (działaniem) poszczególnych składników.
+Komputer składa się z jednostki centralnej (CPU), magistrali systemowej, pamięci oraz urządzeń wejścia-wyjścia. Jednostka centralna składa się z rejestrów, jednostki arytmetyczno-logicznej (ALU), jednostki sterującej i połączeń wewnętrznych. Jednostka sterująca składa się z układów logicznego szeregowania, rejestrów i dekoderów jednostki sterującej oraz jej pamięci. 
+
+
+Struktura i działanie procesora
+Pamięć podręczna
+Pamięć wewnętrzna
+Pamięć zewnętrzna
+Wejście wyjście
+Wspieranie systemu operacyjnego
+Arytmetyka komputera
+Własności i funkcje listy rozkazów
+Tryby adresowania i formaty rozkazów
+Paralelizm na poziomie rozkazu i procesory superskalarne
+Działanie jednostki sterującej
+Sterowanie mikroprogramowe
+
+
+Pierwszą udokumentowaną architekturę komputera można znaleźć w korespondencji pomiędzy Charlesem Babbage i Adą Lovelace, opisującą tzw. silnik analityczny. Podczas budowy komputera Z1 w 1936, Konrad Zuse opisał po raz pierwszy komputer którego instrukcje są przechowywane w pamięci, tzw. stored-program computer.
+
+
+Ze względu na rodzaj połączeń procesor-pamięć i sposób ich wykorzystania dzielimy architektury zgodnie z taksonomią Flynna:
+
+SISD (ang. Single Instruction Single Data) – skalarne,
+SIMD (ang. Single Instruction Multiple Data) – wektorowe (macierzowe),
+MISD (ang. Multiple Instruction Single Data) – strumieniowe,
+MIMD (ang. Multiple Instruction Multiple Data) – równoległe.
+Ze względu na sposób podziału pracy i dostęp procesora do pamięci możemy podzielić architektury na:
+
+SMP (ang. Symmetric Multiprocessing) – symetryczne,
+ASMP (ang. Asymmetric Multiprocessing) – asymetryczne,
+NUMA (ang. Non-Uniform Memory Access) – asymetryczne (rozróżniające pamięć lokalną i zdalną),
+AMP (ang. Asynchronous Multiprocessing) – asynchroniczne,
+MPP (ang. Massively Parallel Processors) – równoległe.
+Ze względu na sposób organizacji pamięci i wykonywania programu:
+
+architektura von Neumanna – zarówno dane, jak i kod programu przechowywany jest w tym samym obszarze pamięci;
+architektura harwardzka – rozkazy i dane przechowywane są w odseparowanych obszarach pamięci;
+architektura mieszana – połączenie dwóch powyższych typów: obszary pamięci dla rozkazów i danych są odseparowane, jednak wykorzystują wspólne magistrale.
+
+
+architektura procesora
+architektura zestawu instrukcji
+architektura oprogramowania
+
